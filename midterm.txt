@@ -1,0 +1,60 @@
+Q1: Who is the father of Computer science?
+A1: Charles Babbage
+
+Q2: EEPROM stands for__?
+A2: Electronic Erasable Programmable Read Only Memory
+
+Q3: Scientific Name of Computer?
+A3: Sillico sapiens
+
+Q4: What is a half byte also called as?
+A4: Nibble
+
+Q5: SMTP, FTP and DNS are applications of the ____ layer?
+A5: Application
+
+Q6: What kind of memory is both static and non -volatile?
+A6: ROM
+
+Q7: What is the other name for programmed chip?
+A7: LSIC
+
+Q8: COBOL is an acronym for__?
+A8: Common Business Oriented Language
+
+Q9: A ________ is approximately a million bytes?
+A9: Megabyte
+
+Q10: What is the name of the display feature that highlights are of the screen which requires operator attention?
+A10: Reverse Video
+
+Q11: ASCII stands for__?
+A11: American Standard Code for Information Interchange
+
+Q12: Full form of LAN ?
+A12: Local Area Network
+
+Q13: Which command is used to select the whole document?
+A13: Ctrl+A
+
+Q14: First page of Website is termed as__?
+A14: Homepage
+
+Q15: Where are the CPU and memory located?
+A15: Motherboard
+
+Q16: Switching device of fifth generation computer is__?
+A16: VLSI
+
+Q17: Second Generation computers were developed during__?
+A17: 1956-65
+
+Q18: A computer cannot 'boot' if it does not have the__?
+A18: Operating system
+
+Q19: The geometric arrangement of devices on the network is called...........?
+A19: Topology
+
+Q20: RAM can be treated as the ......... for the computer's processor.
+A20: Waiting Room
+
